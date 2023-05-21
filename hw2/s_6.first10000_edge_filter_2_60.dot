@@ -1,4 +1,4 @@
-strict digraph "" {
+digraph "" {
 	0 -> 1	[fontsize=10,
 		label="Coverage 250.79, Length 513"];
 	1 -> 16	[fontsize=10,
